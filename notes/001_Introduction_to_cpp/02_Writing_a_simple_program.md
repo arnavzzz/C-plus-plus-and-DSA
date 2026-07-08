@@ -18,8 +18,8 @@ Below a code in which you can see the example of the code
 #include <iostream>
 using namespace std;
 
-int addNumbers(int a,int b) {
-    return a+b;
+int addNumbers(int a,int b) { //int (return type), addNumbers(function name) & content inside parentheses that can be empty (parameter list) 
+    return a+b;//content inside surly braces (Function body) 
 }
 
 int main() {

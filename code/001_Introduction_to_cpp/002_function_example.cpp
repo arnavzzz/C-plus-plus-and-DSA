@@ -6,7 +6,7 @@ int addNumbers(int a,int b) {
 }
 
 int main() {
-    int sum = addNumbers(5,10);
+    int sum = addNumbers(4,21);
     cout<<"The sum is: "<<sum<<endl;
     return 0;
 }
